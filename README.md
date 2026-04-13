@@ -16,8 +16,6 @@ Aplicação web desenvolvida para gerenciamento de tarefas do dia a dia, permiti
 ## 💡 Objetivo do projeto
 Projeto desenvolvido com o objetivo de praticar lógica de programação, manipulação do DOM e interação com o usuário no front-end. Esse tipo de aplicação é muito comum para treinar conceitos básicos de desenvolvimento web :contentReference[oaicite:0]{index=0}
 
-## 📸 Demonstração
-(Adicione aqui imagens do projeto rodando)
 
 ## 📂 Como executar
 1. Clone o repositório
